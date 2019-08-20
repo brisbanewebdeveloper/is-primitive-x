@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-15T18:21:14.403Z",
+  "date": "2019-08-20T08:00:02.041Z",
   "describe": "",
   "description": "Returns true if the value is a primitive.",
   "file": "is-primitive-x.js",
