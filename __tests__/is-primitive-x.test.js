@@ -25,7 +25,6 @@ describe('testSubject', function() {
 
   itBigInt('should return true for bigint', function() {
     expect.assertions(1);
-    /* eslint-disable-next-line no-undef */
     expect(isPrimitive(BigInt(0))).toBe(true);
   });
 
