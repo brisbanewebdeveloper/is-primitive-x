@@ -1,6 +1,6 @@
 {
   "name": "is-primitive-x",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns true if the value is a primitive.",
   "homepage": "https://github.com/Xotic750/is-primitive-x",
   "author": {

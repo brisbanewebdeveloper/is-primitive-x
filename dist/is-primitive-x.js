@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-28T14:40:36.984Z",
+  "date": "2019-08-28T16:32:19.207Z",
   "describe": "",
   "description": "Returns true if the value is a primitive.",
   "file": "is-primitive-x.js",
   "hash": "96ff89e44b09e3a93f5c",
   "license": "MIT",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
